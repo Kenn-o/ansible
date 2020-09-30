@@ -1,0 +1,2 @@
+- name: '[aws] ping aws'
+  import_playbook: configure_nginx_server.yml
